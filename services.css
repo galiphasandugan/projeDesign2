@@ -67,9 +67,7 @@ div a {
     padding: 1rem;
     margin-top: 1rem;
 }
-.left{
-   
-}
+
 .right{
     display: flex;
     flex-direction: column;
@@ -111,7 +109,7 @@ input{
     header, main , article{
         flex-direction: column;
     }
-    .right{
+    .right, .left{
         margin: auto;
     }
 }
