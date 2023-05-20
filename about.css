@@ -82,8 +82,7 @@ div a {
     background-color: var(--bg);
     padding: 2rem;
     color: white;
-    position: fixed;
-    bottom: 0;
+    
     width: 100%;
     
 }
